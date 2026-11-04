@@ -1,30 +1,26 @@
-# Placement-Tracker
-A Python application to track placement applications using SQLite
+# Placement Tracker
 
-A command line application built using Python and SQLite to help students track placement and internship applications.
+A simple Python program I made to keep track of my placement applications.
 
-# Features
+## What It Does
 
-- Add and view placement applications
+- Add and view applications
 - Update application statuses
-- View statistics about applications
-- Check job adverts against a list of skills using keyword matching
+- See how many applications are at each stage
+- Check which skills from my list appear in a job advert
 
-# Technologies Used
+## What I Used
 
 - Python
 - SQLite
 
-# How to Run
+## How to Run
 
-1. Install Python.
-2. Download `tracker.py`.
-3. Open a terminal in the folder containing the file.
-4. Run `python tracker.py`.
-5. Follow the menu options.
+1. Download `tracker.py`.
+2. Make sure Python is installed.
+3. Run `python tracker.py` in the terminal.
+4. Choose an option from the menu.
 
-The application automatically creates a local SQLite database.
+## What I Learned
 
-# What I Learned
-
-This project helped me practise Python functions, loops, conditional statements, user input, SQL queries and database management.
+I practised using functions, loops, if statements and SQL to save and update information.
